@@ -1,0 +1,10 @@
+.about_me_images{
+    float: right;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.about_me_text{
+    float: right;
+}
